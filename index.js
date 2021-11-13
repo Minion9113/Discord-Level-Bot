@@ -7,7 +7,7 @@ client.db = require("quick.db");
 client.commands = new Discord.Collection();
 client.cooldown = new Discord.Collection();
 client.config = {
-    TOKEN: "ODkxMDIyMDUzNTY0NjE2NzE1.YU4S8w.BVjRT8KShSUMhRmG2nfDhX8FsDU", //Discord Bot Token
+    TOKEN: "", //Discord Bot Token
     API_TOKEN: "https://discord.com/api/oauth2/authorize?client_id=891022053564616715&permissions=8&scope=bot",
     prefix: "!",
     cooldown: 13000
